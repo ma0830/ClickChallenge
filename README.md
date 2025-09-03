@@ -110,9 +110,9 @@ click-challenge-java/
 - ゲーム終了後のスコア表示
 
 **スクリーンショット：**
-![スコアリング画面](img/game_screen_sample.ping)
-![スコアリング画面](img/game_screen_sample2.ping)
-![スコアリング画面](img/game_screen_sample3.ping)
+![スコアリング画面](img/game_screen_sample.png)
+![スコアリング画面](img/game_screen_sample2.png)
+![スコアリング画面](img/game_screen_sample3.png)
 
 **実行デモ動画(0:37)：**                                               
 https://1drv.ms/v/c/aa77078cc99cfacf/EbdJc-LoJidJj-fDJYOKwHMBVPpHavCCTagIxb8X7NwQKA
